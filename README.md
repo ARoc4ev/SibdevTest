@@ -20,7 +20,7 @@
     docker-compose up -d --build
     
     
-   5. Для работы с серввисом будет удобно исподьзовать  postman ;
+   5. Для работы с веб-сервис  будет удобно исподьзовать  postman ;
          
          https://www.postman.com/
          
